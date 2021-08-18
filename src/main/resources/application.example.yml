@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: demo
+
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
+  username: GitHubUserName
+  token: VerySecretToken
